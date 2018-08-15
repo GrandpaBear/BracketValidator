@@ -1,6 +1,6 @@
 The purpose of this program is to ask the user to input
-   a set of brackets and will validate this string to check
-   if the user has inputted complete sets of brackets. It uses
-   stack, a type of container adaptors with LIFO, for
-   validation. The program also includes a user-friendly menu
-   system.
+a set of brackets and will validate this string to check
+if the user has inputted complete sets of brackets. It uses
+stack, a type of container adaptors with LIFO, for
+validation. The program also includes a user-friendly menu
+system.
